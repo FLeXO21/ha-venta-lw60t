@@ -1,4 +1,4 @@
-# ha-venta
+# ha-venta-lw60t
 
 A Home Assistant custom Integration for Venta devices (protocol: v0, v2, v3) with wifi module.
 
