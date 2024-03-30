@@ -6,9 +6,9 @@
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/FLeXO21/ha-venta-lw60t",
+  "documentation": "https://github.com/Michsior14/ha-venta",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/FLeXO21/ha-venta-lw60t/issues",
+  "issue_tracker": "https://github.com/Michsior14/ha-venta/issues",
   "loggers": [
     "custom_components.venta"
   ],
