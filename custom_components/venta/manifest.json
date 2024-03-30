@@ -2,7 +2,7 @@
   "domain": "venta",
   "name": "Venta",
   "codeowners": [
-    "@FLeXO21"
+    "@Michsior14"
   ],
   "config_flow": true,
   "dependencies": [],
