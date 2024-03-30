@@ -23,6 +23,7 @@ from .const import (
     MODE_LEVEL_2,
     MODE_LEVEL_3,
     MODE_LEVEL_4,
+    MODE_LEVEL_5,
     MODE_SLEEP,
 )
 from .venta import VentaApiVersion, VentaDataUpdateCoordinator, VentaDeviceType
@@ -34,6 +35,7 @@ AVAILABLE_MODES = [
     MODE_LEVEL_2,
     MODE_LEVEL_3,
     MODE_LEVEL_4,
+    MODE_LEVEL_5,
 ]
 
 
