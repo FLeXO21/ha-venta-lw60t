@@ -12,6 +12,7 @@ MODE_LEVEL_1 = "level 1"
 MODE_LEVEL_2 = "level 2"
 MODE_LEVEL_3 = "level 3"
 MODE_LEVEL_4 = "level 4"
+MODE_LEVEL_5 = "level 5"
 
 ATTR_WATER_LEVEL = "water_level"
 ATTR_FAN_SPEED = "fan_speed"
